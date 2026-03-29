@@ -4,7 +4,7 @@ A scalable and feature-rich job portal application built using Django. This plat
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview..
 
 This project is an open-source job portal system that supports multiple user roles with role-based access control. It simulates a real-world recruitment system with authentication, job management, and analytics features.
 
